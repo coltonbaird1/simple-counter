@@ -11,14 +11,14 @@ body {
   /* border: black 1px solid; */
   height: 500px;
   width: 500px;
-  margin-top: 200px;
+  margin-top: 6rem;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   background-color: #ee4cfc;
   border-radius: 12px;
-  box-shadow: 10px 10px #fdf500;
+  box-shadow: 15px 15px #fdf500;
 }
 
 h1 {
@@ -40,14 +40,6 @@ button {
   font-size: 16px;
 }
 
-.btn-dec {
+.btns {
   background-color: #fc6f4c;
-}
-
-.btn-in {
-  background-color: #fc6f4c;
-}
-
-.btn-res {
-  background-color: #f5a349;
 }
